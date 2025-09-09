@@ -1,6 +1,7 @@
 # 🐍 Python Class-03: Conditionals & Examples
 
-This repository contains Python examples demonstrating conditionals, practical calculators, and a grading system. It covers `if`, `else`, `elif`, nested conditions, and real-life applications.
+**Author:** Muhammad Awais
+**Technologies:** Python 3 🐍
 
 ---
 
@@ -216,6 +217,3 @@ print(f"🎓 The grade for {marks} marks is: {grade}")
 * Practical examples include **calculators and grading systems**.
 
 ---
-
-**Author:** Muhammad Awais
-**Technologies:** Python 3 🐍
