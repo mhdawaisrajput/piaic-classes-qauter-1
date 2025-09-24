@@ -1,7 +1,6 @@
 # 🐍 Python Basics: Class-04
 
 **Author:** Muhammad Awais
-**Technologies:** Python 3 🐍
 
 ## 1. Taking Input from the User
 
